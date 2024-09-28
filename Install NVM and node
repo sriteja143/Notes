@@ -1,0 +1,12 @@
+go to 
+https://github.com/nvm-sh/nvm
+
+then copy below and pst in terminal
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+
+then copy below and pst in terminal
+source ~/.zshrc
+
+nvm ls-remote
+
+nvm install vesrion
